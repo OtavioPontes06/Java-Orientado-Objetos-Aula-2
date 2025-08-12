@@ -10,3 +10,7 @@ Em volta dos dois animais tem uma planta do lado esquerdo e do lado direito, doi
 <img width="249" height="167" alt="Captura de tela 2025-08-11 220902" src="https://github.com/user-attachments/assets/c0a5a7a7-fda9-4a8e-96ba-5f1acfb1b527" />
 <img width="252" height="113" alt="Captura de tela 2025-08-11 220907" src="https://github.com/user-attachments/assets/237010f5-67a5-40d0-a80d-0bee0e3cea2c" />
 <img width="184" height="270" alt="Captura de tela 2025-08-11 220912" src="https://github.com/user-attachments/assets/d80fa792-9ffc-422f-86fe-007ca443c8a3" />
+
+Depois disso adicionei mais um fungo á direita e uma caverna ao fundo.
+
+<img width="739" height="328" alt="Captura de tela 2025-08-11 221538" src="https://github.com/user-attachments/assets/2716cced-e275-4a60-a715-8ea8d23b986f" />
